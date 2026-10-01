@@ -1,1 +1,1 @@
-Write java code to store the population of India and China and print the population
+write a java code for storing the population of india and china and print the population
